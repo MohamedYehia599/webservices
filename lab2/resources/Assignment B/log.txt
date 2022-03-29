@@ -1,0 +1,55 @@
+User ip: ::1
+date : March 25, 2022, 2:57 am
+Attempt: GET
+result: Array
+=======================================
+User ip: ::1
+date : March 25, 2022, 2:57 am
+Attempt: POST
+result: data entered successfully
+=======================================
+User ip: ::1
+date : March 25, 2022, 2:58 am
+Attempt: PUT
+result: data updated successfully
+=======================================
+User ip: ::1
+date : March 25, 2022, 2:59 am
+Attempt: POST
+result: data entered successfully
+=======================================
+User ip: ::1
+date : March 25, 2022, 2:59 am
+Attempt: DELETE
+result: data deleted successfully
+=======================================
+User ip: ::1
+date : March 25, 2022, 3:00 am
+Attempt: DELETE
+result: there is no such record
+=======================================
+User ip: ::1
+date : March 25, 2022, 3:02 am
+Attempt: GET
+result: Array
+=======================================
+User ip: ::1
+date : March 25, 2022, 3:03 am
+Attempt: GET
+result: successfull
+=======================================
+User ip: ::1
+date : March 25, 2022, 3:10 am
+Attempt: 
+result: you didnt enter any value
+=======================================
+User ip: ::1
+date : March 25, 2022, 3:11 am
+Attempt: 
+result: you didnt enter any value
+=======================================
+User ip: ::1
+date : March 25, 2022, 3:11 am
+Attempt: PUT
+result: there is no such record
+=======================================
